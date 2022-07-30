@@ -6,16 +6,27 @@ Compare the music preferences of the cities of Springfield and Shelbyville. Real
 Contents 
 Introduction
 Stage 1. Data overview
+
 Conclusions
+
 Stage 2. Data preprocessing
+
 2.1 Header style
+
 2.2 Missing values
+
 2.3 Duplicates
+
 2.4 Conclusions
+
 Stage 3. Testing the hypotheses
+
 3.1 Hypothesis 1: user activity in the two cities
+
 3.2 Hypothesis 2: music preferences on Monday and Friday
+
 3.3 Hypothesis 3: genre preferences in Springfield and Shelbyville
+
 Findings
 
 Introduction 
