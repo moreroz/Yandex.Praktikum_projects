@@ -41,7 +41,7 @@ User activity differs depending on the day of the week and from city to city.
 On Monday mornings, Springfield and Shelbyville residents listen to different genres. This is also true for Friday evenings.
 Springfield and Shelbyville listeners have different preferences. In Springfield, they prefer pop, while Shelbyville has more rap fans.
 Stages
-Data on user behavior is stored in the file /datasets/music_project_en.csv. There is no information about the quality of the data, so you will need to explore it before testing the hypotheses.
+Data on user behavior is stored in the file /datasets/music_project_en.csv. There is no information about the quality of the data, so we will need to explore it before testing the hypotheses.
 
 First, we'll evaluate the quality of the data and see whether its issues are significant. Then, during data preprocessing, we will try to account for the most critical problems.
 
