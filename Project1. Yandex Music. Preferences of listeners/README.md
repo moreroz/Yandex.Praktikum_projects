@@ -10,7 +10,7 @@ Data on user behaviour:
 - day of the week
 # Libraries used
 pandas
-#Goals
+# Goals
 Test three hypotheses:
 User activity differs depending on the day of the week and from city to city.
 On Monday mornings, Springfield and Shelbyville residents listen to different genres. This is also true for Friday evenings.
