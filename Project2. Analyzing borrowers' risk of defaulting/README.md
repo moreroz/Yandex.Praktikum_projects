@@ -13,6 +13,8 @@ Data on the solvency of borrowers and their various characteristics:
 - was there any debt on loan repayment
 - monthly income
 - the purpose of obtaining a loan
+# Goals
+Identify factors affecting the solvency of borrowers
 # Libraries used
 pandas, matplotlib.pyplot
 # Content
