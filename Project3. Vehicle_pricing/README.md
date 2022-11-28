@@ -13,6 +13,8 @@ Data on vehicles from advertisements:
 - whether the vehicle has 4-wheel drive (Boolean type)
 - the date the ad was published
 - days listed from publication to removal
+# Goals
+Determine which factors influence the price of a vehicle
 # Libraries used
 pandas, matplotlib, numpy
 # Content
